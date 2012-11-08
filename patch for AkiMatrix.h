@@ -1,0 +1,1 @@
+	void bitBlt16(uint8_t pos, const uint16_t *src);
